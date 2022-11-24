@@ -1,0 +1,10 @@
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+README.md
+.next
+
+
+//Esto es recomendación de archivos que no deberian estar
+//al momento de crear una imagen
